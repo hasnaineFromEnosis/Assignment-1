@@ -1,0 +1,105 @@
+# ninja log v5
+2	56	6956345499367599	.qt_plugins/Qt6_QmlPlugins_Imports_Assignment-1.cmake	c27c65f459fea200
+56	247	6956345500379132	Assignment-1_autogen/mocs_compilation.cpp	98332c83d5ff321e
+56	247	6956345500379132	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/timestamp	98332c83d5ff321e
+318	369	6956345502516869	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/mocs_compilation.cpp.obj	3e697234da4523b
+2	56	6956345499367599	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_Assignment-1.cmake	c27c65f459fea200
+56	247	6956345500379132	Assignment-1_autogen/timestamp	98332c83d5ff321e
+314	1634	6956345515096584	CMakeFiles/Assignment-1.dir/main.cpp.obj	bddffd38b9b0b4b8
+56	247	6956345500379132	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/mocs_compilation.cpp	98332c83d5ff321e
+4	54	6956350245661701	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+4	54	6956350245661701	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+55	100	6956350246163761	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+100	219	6956350247311342	Assignment-1.exe	31e6d257f01ee39d
+4	150	6956352260470195	Assignment-1_autogen/timestamp	98332c83d5ff321e
+4	150	6956352260470195	Assignment-1_autogen/mocs_compilation.cpp	98332c83d5ff321e
+4	150	6956352260470195	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/timestamp	98332c83d5ff321e
+4	150	6956352260470195	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/mocs_compilation.cpp	98332c83d5ff321e
+157	219	6956352261133518	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+157	219	6956352261133518	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+220	271	6956352261699300	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+272	399	6956352262923464	Assignment-1.exe	31e6d257f01ee39d
+12	73	6956352469218551	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+12	73	6956352469218551	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+74	123	6956352469763734	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+123	249	6956352470975029	Assignment-1.exe	31e6d257f01ee39d
+4	53	6956352512637566	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+4	53	6956352512637566	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+54	104	6956352513177693	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+104	233	6956352514410438	Assignment-1.exe	31e6d257f01ee39d
+4	58	6956352893217629	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+4	58	6956352893217629	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+58	104	6956352893721621	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+105	223	6956352894869843	Assignment-1.exe	31e6d257f01ee39d
+4	58	6956353064144200	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+4	58	6956353064144200	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+58	111	6956353064730516	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+112	232	6956353065897583	Assignment-1.exe	31e6d257f01ee39d
+4	60	6956353267837246	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+4	60	6956353267837246	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+61	110	6956353268373145	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+111	228	6956353269504492	Assignment-1.exe	31e6d257f01ee39d
+5	57	6956353463728818	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+5	57	6956353463728818	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+57	110	6956353464322876	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+111	236	6956353465529599	Assignment-1.exe	31e6d257f01ee39d
+4	60	6956353724494854	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+4	60	6956353724494854	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+60	111	6956353725048845	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+112	235	6956353726231280	Assignment-1.exe	31e6d257f01ee39d
+3	57	6956353842320576	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+3	57	6956353842320576	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+58	108	6956353842867118	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+109	244	6956353844162695	Assignment-1.exe	31e6d257f01ee39d
+4	56	6956354288365779	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+4	56	6956354288365779	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+56	105	6956354288895643	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+106	224	6956354290040663	Assignment-1.exe	31e6d257f01ee39d
+6	65	6956354837067342	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+6	65	6956354837067342	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+65	118	6956354837648889	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+119	244	6956354838850358	Assignment-1.exe	31e6d257f01ee39d
+4	61	6956357031627795	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+4	61	6956357031627795	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+61	112	6956357032189599	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+112	243	6956357033454175	Assignment-1.exe	31e6d257f01ee39d
+4	57	6956357348031514	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+4	57	6956357348031514	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+58	107	6956357348572528	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+108	233	6956357349795001	Assignment-1.exe	31e6d257f01ee39d
+4	58	6956357435916318	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+4	58	6956357435916318	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+59	106	6956357436429992	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+106	227	6956357437598166	Assignment-1.exe	31e6d257f01ee39d
+4	61	6956358067527561	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+4	61	6956358067527561	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+61	112	6956358068102608	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+113	234	6956358069256411	Assignment-1.exe	31e6d257f01ee39d
+4	61	6956359136169263	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+4	61	6956359136169263	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+61	112	6956359136740995	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+112	238	6956359137959778	Assignment-1.exe	31e6d257f01ee39d
+3	56	6956359287400610	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+3	56	6956359287400610	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+57	104	6956359287921761	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+104	228	6956359289093308	Assignment-1.exe	31e6d257f01ee39d
+4	54	6956359573899192	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+4	54	6956359573899192	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+54	102	6956359574429357	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+103	236	6956359575706219	Assignment-1.exe	31e6d257f01ee39d
+3	56	6956360069385515	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+3	56	6956360069385515	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+57	106	6956360069921299	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+106	227	6956360071089687	Assignment-1.exe	31e6d257f01ee39d
+4	56	6956360312282187	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+4	56	6956360312282187	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+56	110	6956360312864425	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+110	247	6956360314172406	Assignment-1.exe	31e6d257f01ee39d
+3	52	6956360873885168	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+3	52	6956360873885168	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+53	101	6956360874426784	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+101	225	6956360875609882	Assignment-1.exe	31e6d257f01ee39d
+4	55	6956361325003254	Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+4	55	6956361325003254	C:/Users/hasnaine/Documents/QT Practice/Assignment-1/build-Assignment-1-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp	c18419fa5f5354cd
+55	104	6956361325562322	CMakeFiles/Assignment-1.dir/Assignment-1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7935cb3d2cd5deaf
+104	227	6956361326744393	Assignment-1.exe	31e6d257f01ee39d
