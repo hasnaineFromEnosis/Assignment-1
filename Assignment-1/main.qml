@@ -13,15 +13,24 @@ Window {
         anchors.centerIn: Parent
         color: "lightgrey"
 
-        TLineEditV2 {
+        TTextEdit {
             id: input1
-            width: 100
+            width: 300
             height: 50
+            anchors.margins: 10
+            text: "Input1"
+            focus: true
+
         }
-        TLineEditV2 {
+        TTextEdit {
             id: input2
-            width: 100
+            width: 300
             height: 50
+            y: 60
+            text: "Input2"
+            focus: true
         }
+
+
     }
 }
