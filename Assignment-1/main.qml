@@ -50,8 +50,6 @@ Window {
 
                 text: "The written text in file is: " + parent.txt
                 y: 150
-
-
             }
         }
     }
